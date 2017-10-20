@@ -1,0 +1,31 @@
+section {
+  display: flex;
+
+}
+h2, h4 {
+  text-align: center;
+}
+
+header {
+  background-color: #ffc107;
+}
+
+h2 {
+  margin: 0px;
+  padding: 5px;
+}
+.container{
+  width: 534px;
+  margin: 50px 450px;
+  border: 1px solid black;
+}
+
+img{
+  width: 92px;
+  height: 108px;
+}
+
+
+.derecha, .centro, .izquierda  {
+  padding: 17px;
+}
